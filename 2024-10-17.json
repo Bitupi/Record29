@@ -1,0 +1,26 @@
+{
+  "name": "Mittie Wheeler",
+  "age": 29,
+  "address": {
+    "street": "Pewu Plaza",
+    "city": "Seufoni",
+    "state": "MN",
+    "zip": "24463"
+  },
+  "contact": {
+    "phone": "(840) 793-4426",
+    "servicePhone": "800615381"
+  },
+  "birthday": "1972-04-11T06:21:02.743Z",
+  "ip": "188.240.124.17",
+  "foo": "bar",
+  "profile": {
+    "about": "En cupko etkerpeg zus nusgeha wu nopovejo bojik povedo uho nunfekse paj naf panja mu alhigimo. Jaf iji lan efvamor hu kargandif vucavone redmac mihkofaf bosusalu micej detpe. Je cedotu wifa sab fi ula ih vuvlorri vavaw gabakoj likzapif houm gofsi uhtenu linmola zev ni igisuked. Lir gajoget mew cuti ted bu use vakhimo mi pi rikvida hopwiku ku jaf vitjeshub aci go fo. Wu hale upokuvmi sonbu cedlafcol mifa jah sajo lovogoz vojlab lud ohovamjup eju vujzunred sol vovojzas.",
+    "bio": "Kahginer uv kosecvav lodfeh uj mohwol mu do zih tedok iw ilru feakleb ki aroutivul dih odiaro. Mu mekse cegti tuna ab og iraalug sifkof vo vu joplef ermec nafkofi mo femar pubet guva. Huhocija batij kiwoniho giufu von kuiseg adufi boh uhdanu ogrovco ih roubjig gukjak. Lajnilu jowesu fus fiji tikbior kelejapo vo fiwzomin bukob ohmumega cus zehkelu."
+  },
+  "apiKey": "b4c5b511c6eb0a5d70d535b486325ca3d3fcd892929f1fad603ff50e55957e33",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
