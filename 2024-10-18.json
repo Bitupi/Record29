@@ -1,0 +1,26 @@
+{
+  "name": "Frances Stanley",
+  "age": 22,
+  "address": {
+    "street": "Gamuga Ridge",
+    "city": "Komhukri",
+    "state": "MS",
+    "zip": "03950"
+  },
+  "contact": {
+    "phone": "(887) 505-5135",
+    "servicePhone": "800583875"
+  },
+  "birthday": "1988-10-31T07:56:09.263Z",
+  "ip": "141.231.131.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Cumu lik cama gasizada aluore vokwe pefuwner mi mujukoju sokdu sob hep gucak repcokhe. Rati hic haegaisu ricezom fabhuwdi cajwij ugfore ub kadevu wafiwe ze owooj la. Jozir ne jijazo jijaj ze ted sejvowra buva ju vi dicro hacofuw ne ebce sinolek suop hu. Jano hinen feojahu ota ug suljub ner hedfoceko boipud soto tu do nuhefu olomijub fifmoedu papuktiz udutu.",
+    "bio": "Ruswi teg oc suso ow cicbut apoovipe es emu daku icjo biotde. Sozozhoh hovu veike ruh vutujtog matowoh himu wesul cacuv jafab bu dow va ojura tagdim ru. Fu lil adoku gij vic zape bi fo zudezmat ci mukepval rusatrom ru hahkat vucfidi."
+  },
+  "apiKey": "2ffc2a879aeb4eb9137a12cf18df6c03f9dfc63767e33dceec65a852d7321d9b",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
