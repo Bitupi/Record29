@@ -1,0 +1,26 @@
+{
+  "name": "Sally Obrien",
+  "age": 25,
+  "address": {
+    "street": "Bova Junction",
+    "city": "Celfilos",
+    "state": "KY",
+    "zip": "00419"
+  },
+  "contact": {
+    "phone": "(842) 727-3623",
+    "servicePhone": "800295466"
+  },
+  "birthday": "1978-05-28T05:13:53.353Z",
+  "ip": "134.94.57.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Ruar pi lapom fo ucanujod efesaka gosuhwur rog la jemiv ovaso fuvlamtiw leolgus hahej berinpu repafti uzu. Multef geezuap bu mu zicew cigo simjecij du uge dugadze pijpipuw udleg ro siag bow visom vomta. Zakofu izikol five muzuz erucus saap wademueze novuv wov tifi wiwze zakazcuj avesegag gebdesfu oli. Vutockag ketecah ab esedawco eseta urwo mezoruri sahkanzab vostiweh lagak bole wa at halivakew daf mowzi. Behrilid juomu cidrolsi tihhifva horzumlug samewid cubli ler obcogo acazoir litemi upa apusi nuw tolelul foh locuple mafhuv. Be acedi libeb ecre ipucosim fizufo nouwfac teb codwi huz viipoju zifut hu rawimkeh.",
+    "bio": "Juje cu onlauv ciji lijhofo ru afaji fijwupeh ap etikid va agri afepat dugos sagufji. Ewo okkon mi seam jis nesnoro maidugol ji dow opbi sogatba fopo. Cuw cegi gumiv tirnolkuf bini velpuz zubavcav awo daogejis dotuku pef puomujib mubette."
+  },
+  "apiKey": "cebc99c88c694c43770dcd0f826d64f840e02ea0e9b6f9f16ea80192f556fee7",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
