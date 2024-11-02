@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Bates",
+  "age": 60,
+  "address": {
+    "street": "Kowiba Junction",
+    "city": "Mabhacde",
+    "state": "TN",
+    "zip": "58625"
+  },
+  "contact": {
+    "phone": "(423) 219-4841",
+    "servicePhone": "800561433"
+  },
+  "birthday": "1993-10-28T05:30:58.702Z",
+  "ip": "65.63.129.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Ves efinuz tor dig zoiri col owafajo sakeeb hanodum uhi firzarfon fa. Fefiv pen sirudti reg paj ef cuwhodsan buumre ojtupa ih mal wafrapo arwow. Nol pev lolurim ow kigralone jooh cokesuk sa tom detdil met cahosfuh ebewop kipgaveso wiagoras veeda vevok.",
+    "bio": "Be cigora miw ga fe reamimo gebgor atzobev uzebincam huoz oghe met los huhebatar cu ijabip ob semkul. Gonidi tog cakcur dobcon da dud em mu vegu de noakape zosohaj to unce kadide bog ev we. Fiwri fopuef el caufolog ocece raojafut nuje gipo leglo amozajah futko dic ofede woz dez mifakup loda."
+  },
+  "apiKey": "a99ed7d21515e9ab2ee641d88b3e7c0d8c24944ee4bbace98da02d43d0f44db0",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
