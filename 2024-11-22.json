@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Lopez",
+  "age": 56,
+  "address": {
+    "street": "Addac Pike",
+    "city": "Ikurupnos",
+    "state": "MO",
+    "zip": "15876"
+  },
+  "contact": {
+    "phone": "(679) 315-4978",
+    "servicePhone": "800827615"
+  },
+  "birthday": "1980-04-14T05:03:21.566Z",
+  "ip": "252.143.96.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni giage ada ebdi testaj ebefina abu eli ca nawa fa zaaro gab huij ibi suej ig. Uluki mid hu lu juc mun ezo poscaruz muwu ji di ci geduloj suh rekoho. Ciwoworib pub vew dafewuz hej vumfalze dalifwir ir dincon owmi golroput gufwa ruepa rogzap wi osagaptu. Icuugid luk eguri lajpalew jedoic vin disa mudlal om irdod lizeg ru. Zesel mavaur ze renagut zat laluib iciru gurrahag fagogap esa dosoblo te ecaoga nu.",
+    "bio": "Herfi gavdomub kuvneniw zumno zo umicze uz bodgocfu kawewhi so rejfewuz sozebun cim ov zam. Vu jolvasi war ci ogwul legof pis ja ef jevzalle hiv evi ku ha giljuc soojko. Inisep lonbe ik vo baipka loazfug ukhezop kid kuppahi muz uho va jidjibsib dovwuga fekadi ceb sutec zafer."
+  },
+  "apiKey": "6402aac3d1dc08fea8442fb6259cbb8f3129b6030cb0b26a223fec94ce3af4c8",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
