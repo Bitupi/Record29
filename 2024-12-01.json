@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Banks",
+  "age": 61,
+  "address": {
+    "street": "Tondut Court",
+    "city": "Zipsuzu",
+    "state": "KY",
+    "zip": "01172"
+  },
+  "contact": {
+    "phone": "(683) 271-8924",
+    "servicePhone": "800163337"
+  },
+  "birthday": "1962-10-30T03:09:44.028Z",
+  "ip": "219.145.154.161",
+  "foo": "bar",
+  "profile": {
+    "about": "Zev la cinsaas tipovhuv ajdihbe noh vo wihla ivo nuirupow raliug ticawi rawan ce uf cu wimbav ves. Idi jubgubso lu uglu asu fajukija diw wibunra livug lofijin nivakut tafajmon fi tusadgif nera am kef. Tesi pav huggujte letim fo emo ebafam fecbagule hi hofe tubmog lu norafidul zod. Fu kozuwha cotpega ba loz or carcez rublo ahipi gaptak bodpi re sokinole jehfa lefarogo sudo bovu beno.",
+    "bio": "Ezdik zoj elzon pulruc duk julupla co ripemize borez vilwis pe sondibe jemnok cik la luc jingaho. Pubhepu datpiva hub ofebezgu na ona dol butool wehlere sa icimutbe caminwi fucvas ofpo aje tujodapa bi. Cu cuoreku neplo kiprufsip ev zehuv ozi cog cahuwu gihikim gofmi oka puhpioli jon."
+  },
+  "apiKey": "14ffc136ce53c3b714f830d1f04113f97c8a442b2b4716ef29f1dc068137bd2c",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
