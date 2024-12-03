@@ -1,0 +1,26 @@
+{
+  "name": "Lucas Miles",
+  "age": 61,
+  "address": {
+    "street": "Tetvij Place",
+    "city": "Gilunivu",
+    "state": "NH",
+    "zip": "48680"
+  },
+  "contact": {
+    "phone": "(485) 814-2442",
+    "servicePhone": "800419973"
+  },
+  "birthday": "1969-03-23T03:27:34.339Z",
+  "ip": "213.246.204.209",
+  "foo": "bar",
+  "profile": {
+    "about": "Tot vuret tu pi ro haenapuz nowlab baumca kupvirda filukpe avev upebal zuslid teblap asihilive veswume uvasorvaj. Cadon vopel bi tihcud safwa depog li le tiwocuril ojibu teh efpoheso lufcigoc. Zeire ziswowu omukali nothufec ag mabido do jik henkuf beslu izlerhe ahu hiz.",
+    "bio": "Wukef ijono vigip ut nuvdularo jisetev beg ji leh eksutgod zu donceim ofti mo lo. Filavaosi pocuv ehais fop lirfanbi ug ruvmizih nepomse todcimcug izaprep luopi innabuc ire edego ju fuw pujilvuw vorrobbuw. Gakidumow gikaame zuske ki penanja ehdahih das er ago hudve wehemewab saebfeb pehezi kaviza ruwsuvpi noiv loapve."
+  },
+  "apiKey": "f1e8c5387e4aac48f33fee64f4620e1b655876b4fc2bc3b2ef2555fdf30d7f96",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
