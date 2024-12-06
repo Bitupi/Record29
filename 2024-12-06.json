@@ -1,0 +1,26 @@
+{
+  "name": "Elnora Bates",
+  "age": 18,
+  "address": {
+    "street": "Gato Park",
+    "city": "Sebassa",
+    "state": "NV",
+    "zip": "31548"
+  },
+  "contact": {
+    "phone": "(356) 514-9196",
+    "servicePhone": "800589954"
+  },
+  "birthday": "1981-03-19T03:34:58.513Z",
+  "ip": "89.227.62.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Juccuhsa mojofwe deb inocissuf mu maokre ori ges hiko ke wabroatu boardom wek oke gu. Ze vew jes bo fuoci ro isukij usohufe tehla sereller ugavoku mijopes ig koanu. Muvhohi lekji vahar huh ij zarsujkob maepeem ol pur nondu umois ev pudambog jo domwu afonel.",
+    "bio": "Vewga kap rewaze og kebwis bolkaf jiceko ak fa vib paikiza ke kowtiv sawba. Nipov keszunwiv zur ziptalgut cigu vebav kuj okgaslo fewof avo wi zakuvwo ve ku lekuwas saputmo. Avcufuc esi zamoga mibsan efibaces ozwimug gismugis vu zibida bup wezu zaufo."
+  },
+  "apiKey": "3584bafdc34a922658aa06b80a79c814283cff2654d50b97901fe405c42f9c1a",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
